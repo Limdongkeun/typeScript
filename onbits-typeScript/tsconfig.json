@@ -5,8 +5,10 @@
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
+//    "strictNullChecks": true,
     "skipLibCheck": true,
-    "outDir": "dist"
+    "outDir": "dist",
+    "moduleDetection": "force" //각각 파일을 모듈처럼 인식하게 됨
   },
   "include": ["src"]
 }
