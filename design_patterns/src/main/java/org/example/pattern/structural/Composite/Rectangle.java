@@ -1,4 +1,4 @@
-package org.example.pattern.structural.composite;
+package org.example.pattern.structural.Composite;
 
 import java.awt.*;
 
